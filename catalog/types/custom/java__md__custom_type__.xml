@@ -1,0 +1,27 @@
+<custom__type__definition>
+  <version>5.2.0.0</version>
+  <typeName class="org.mule.common.metadata.DefaultMetaDataKey">
+    <id>java</id>
+    <displayName>java</displayName>
+    <category>DEFAULT</category>
+    <metaDataKeyPropertiesManager>
+      <properties>
+        <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty/>
+      </properties>
+    </metaDataKeyPropertiesManager>
+  </typeName>
+  <metadataModel class="org.mule.common.metadata.DefaultPojoMetaDataModel">
+    <implementationClass>assignment7.java1</implementationClass>
+    <dataType>POJO</dataType>
+    <metaDataModelPropertiesManager>
+      <properties/>
+    </metaDataModelPropertiesManager>
+    <fields/>
+    <clazzName>assignment7.java1</clazzName>
+    <isInterface>false</isInterface>
+    <name>java1</name>
+    <parentNames>
+      <string>java.lang.Object</string>
+    </parentNames>
+  </metadataModel>
+</custom__type__definition>
